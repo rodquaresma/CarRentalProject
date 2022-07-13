@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\bin\Debug\net6.0\RentalCarProject.exe
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\bin\Debug\net6.0\RentalCarProject.deps.json
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\bin\Debug\net6.0\RentalCarProject.runtimeconfig.json
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\bin\Debug\net6.0\RentalCarProject.dll
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\bin\Debug\net6.0\RentalCarProject.pdb
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.AssemblyInfo.cs
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.dll
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\refint\RentalCarProject.dll
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.pdb
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\RentalCarProject.genruntimeconfig.cache
+C:\Users\rodri\source\repos\RentalCarProject\RentalCarProject\obj\Debug\net6.0\ref\RentalCarProject.dll
