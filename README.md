@@ -1,3 +1,3 @@
 # CarRentalProject
 
-Sistema que simula uma contratação do aluguel de um carro utilizando C#.
+Sistema que simula a contratação do aluguel de um carro utilizando C#.
